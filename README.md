@@ -10,7 +10,7 @@ This project is designed as a complete end-to-end object detection pipeline suit
 
 ⚙️ **Technologies Used**  
 - **Language:** Python  
-- **Libraries:** Streamlit, Ultralytics YOLO, OpenCV, NumPy, Pillow, PyTorch  
+- **Libraries:** Streamlit, Ultralytics YOLO,  NumPy, Pillow
 
 ---
 
